@@ -1,0 +1,5 @@
+/workspaces/Foro-Hub/src/main/java/com/alura/forohub/dto/DatosRegistroTopico.java
+/workspaces/Foro-Hub/src/main/java/com/alura/forohub/ForoHubApplication.java
+/workspaces/Foro-Hub/src/main/java/com/alura/forohub/controller/TopicoController.java
+/workspaces/Foro-Hub/src/main/java/com/alura/forohub/repository/TopicoRepository.java
+/workspaces/Foro-Hub/src/main/java/com/alura/forohub/modelo/Topico.java

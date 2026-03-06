@@ -1,0 +1,5 @@
+com/alura/forohub/modelo/Topico.class
+com/alura/forohub/ForoHubApplication.class
+com/alura/forohub/controller/TopicoController.class
+com/alura/forohub/repository/TopicoRepository.class
+com/alura/forohub/dto/DatosRegistroTopico.class
